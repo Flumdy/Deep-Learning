@@ -1,0 +1,27 @@
+README CNN_CIFAR
+
+Q1)
+ModelPart3 does not work but the others should work fine. 
+
+Q2)
+The convolution nueral network is better suited as a convolution allows the network to identify the shape of the three regardless of where it is in the image, whereas a feed-forward nueral network would only be able to identify the three if it was trained on images where the 3 was in the same relative space. 
+
+Q3)
+
+Q4)
+a) 
+The researchers claimed there were three features that contributed to criminality:
+I)
+The curvature of the upper lip, which is larger for criminals
+II)
+The distance between the inner corners of the eyes, which is shorter for criminals.
+III)
+The angle from the tip of the nose to the corners of the mouth, which is smaller for criminals.
+
+b)
+The algorithm found that non-criminals faces were relatively similar compared to the criminals who had more varience in their facial structures.
+This could lead to grand generalisations made by the algorithm where someone who does not conform to the 'average' face of a non-criminal would (as a result) be defaulted into the criminal category. 
+
+c)
+This algorithm being used in law enforcement could cause massive ethical problems. Is it okay to arrest someone given a probability (even a high one) that they will commit a crime, or even place them in a managed form of monitering? This sort of outcome could be seen as a similar one to the getos used throughout history to detain the 'likely criminals' of the society and we have seen that branding an innocent person a criminal makes them more likle yot actually fall in with active criminals. 
+Essentially another form of classism that can have no good outcome.
